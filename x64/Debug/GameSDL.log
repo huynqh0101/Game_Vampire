@@ -1,0 +1,118 @@
+﻿  Game.cpp
+D:\game_SDL\setup\GameSDL\KeyBoardController.h(57,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\KeyBoardController.h(77,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\KeyBoardController.h(85,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\KeyBoardController.h(97,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\KeyBoardController.h(104,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\KeyBoardController.h(116,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\KeyBoardController.h(124,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\KeyBoardController.h(134,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\KeyBoardController.h(140,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Shot_01.h(75,31): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shot_01.h(76,42): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shot_01.h(77,36): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shot_01.h(78,47): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\exp_Of_player.h(52,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\lifeOfPlayer.h(38,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\lifeOfPlayer.h(39,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\lifeOfPlayer.h(41,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shot_02.h(19,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\game_SDL\setup\GameSDL\Shot_02.h(40,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shot_02.h(41,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shot_02.h(42,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shot_02.h(59,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shot_02.h(60,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shadow.h(26,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shadow.h(27,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shadow.h(28,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shadow.h(29,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shadow.h(45,37): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shadow.h(46,37): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shadow.h(47,39): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shadow.h(48,39): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shadow.h(61,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shadow.h(62,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shadow.h(68,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shadow.h(69,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shot_03.h(33,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shot_03.h(34,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shot_03.h(39,32): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Shot_03.h(43,32): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(98,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(194,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(194,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(195,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(195,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(203,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(204,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(222,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(223,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(224,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(225,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(242,156): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(246,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(249,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(249,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(252,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(252,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(259,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(276,249): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(283,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(319,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(320,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(325,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(325,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(333,57): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(371,56): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(452,24): warning C4101: 'option': unreferenced local variable
+D:\game_SDL\setup\GameSDL\Game.cpp(610,82): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(611,88): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(612,88): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(615,80): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(616,81): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(625,50): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(629,82): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(630,84): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(631,84): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(634,104): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(658,82): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(659,88): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(660,88): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(663,80): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(664,82): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(671,50): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(675,82): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(676,84): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(677,84): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(680,104): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(703,82): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(704,88): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(705,88): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(708,80): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(709,82): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(718,50): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(722,82): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(723,84): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(724,84): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(727,104): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(770,31): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+D:\game_SDL\setup\GameSDL\Game.cpp(770,47): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+D:\game_SDL\setup\GameSDL\Game.cpp(821,51): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(839,57): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\game_SDL\setup\GameSDL\ECS.h(75,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\game_SDL\setup\GameSDL\Game.cpp(87,50): message : see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int,int>(int &&,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+D:\game_SDL\setup\GameSDL\ECS.h(75,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\game_SDL\setup\GameSDL\Game.cpp(172,53): message : see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int&,int&,int,int,int>(int &,int &,int &&,int &&,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  GameSDL.vcxproj -> D:\game_SDL\setup\GameSDL\x64\Debug\GameSDL.exe
