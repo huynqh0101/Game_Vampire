@@ -2,6 +2,7 @@
 
 # Vampires Survivor
 
+# Nguyễn Quang Huy-22021110
 # Tiên Minh Hoà-22021144
 
 # Game description:
